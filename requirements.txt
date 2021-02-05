@@ -1,0 +1,13 @@
+streamlit
+
+pandas
+numpy
+bs4
+
+requests
+
+
+
+
+
+
